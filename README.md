@@ -6,3 +6,5 @@
  - las variables
 
  - Tipos de operadores
+
+ - Strings
