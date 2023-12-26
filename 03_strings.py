@@ -1,5 +1,11 @@
 ### Strings ###
 
+
+
+
+import time
+
+
 my_string = "Mi String"
 my_other_string = 'Mi otro String'
 
@@ -70,3 +76,6 @@ print(pago.isnumeric())
 print(language3.lower())
 print(language3.lower().isupper())
 print(language2.startswith("py"))
+
+current_date = time.strftime("%d-%m-%Y")
+print(current_date)
