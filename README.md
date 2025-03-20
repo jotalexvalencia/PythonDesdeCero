@@ -8,3 +8,5 @@
  - Tipos de operadores
 
  - Strings
+
+ - Listas
